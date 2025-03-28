@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/skill-exchange/static/js/main.ee8a4ff6.js",
+    "index.html": "/skill-exchange/index.html",
+    "main.ee8a4ff6.js.map": "/skill-exchange/static/js/main.ee8a4ff6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ee8a4ff6.js"
+  ]
+}
