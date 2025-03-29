@@ -2,6 +2,7 @@
 # project
 live link : https://nithin-sai-srm.github.io/skill-exchange/
 # Getting Started with Create React App
+Skill Exchange is a web platform where users can connect, share, and trade skills. Built using React, the app ensures smooth interactions with real-time data handling and efficient state management.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
